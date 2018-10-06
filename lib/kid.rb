@@ -11,5 +11,4 @@ require_relative './fancy_dance.rb'
    def initialize(name)
     @name = name
   end
-  
 end
